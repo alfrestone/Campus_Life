@@ -15,7 +15,7 @@ The project is organized to keep assets, styles, and pages separate and manageab
 Campus_Life/
 ├── index.html          # Home page
 ├── css/
-│   └── style.css       # Main stylesheet for all pages
+│   └── style.css       # Main stylesheet for the project
 ├── assets/
 │   ├── images/         # Project images
 │   └── icons/          # Project icons
