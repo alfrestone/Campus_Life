@@ -41,7 +41,9 @@ a {
     border-bottom: 2px solid #034BFF;
     height: 30px;
 }
-
+.section_1 , .section_2, .section_3, .section_5 {
+    margin : 0;
+}
 .section_1 {
     display: flex;
     justify-content: flex-start;
@@ -375,4 +377,10 @@ footer {
 }
 #button_1 {
     transform: translate(60px,-30px);
+}
+#button_2 {
+    transform: translate(150px,-30px);
+}
+#button_3 {
+    transform: translate(250px,-30px);
 }
